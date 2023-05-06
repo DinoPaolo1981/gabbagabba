@@ -1,0 +1,20 @@
+nav {
+    float: left;
+    ul {
+        list-style: none;
+        overflow: hidden;
+        li {
+            float: left;
+            font-size: 16px;
+            }
+            a {
+                display: block; 
+                padding: 20px;
+                color: #fff;
+                text-decoration: none;
+              }
+                :hover {
+                        background: #82886f                       
+                       }
+    }                
+}
